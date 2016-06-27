@@ -1,1 +1,1 @@
-icon=icon_120_120
+icon=icon_32_32
